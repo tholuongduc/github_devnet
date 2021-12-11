@@ -1,1 +1,2 @@
 Update: Module 3
+This is text was added originally while in the feature branch
